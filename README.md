@@ -1,0 +1,4 @@
+doc
+===
+
+baohua blog document
